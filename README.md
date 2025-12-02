@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-I am a Computer Science student passionate about the intersection of **Backend Engineering** and **Artificial Intelligence**. I love designing scalable database schemas, exploring network protocols, and building applications that leverage LLMs for real-world solutions.
+I am a Computer Science student passionate about the intersection of **Backend Engineering** and **Artificial Intelligence**.
 
-- 🔭 **Current Mission:** Teaching AI to generate documents so humans can focus on big ideas (**AI Doc Gen**).
-- 🧠 **Installing Update:** Downloading **Advanced Design Patterns** and **Cloud Networking** into my brain... [||||||....] 40%.
+- 🔭 **Current Mission:** Diving deep into **Backend Architecture** while teaching AI to generate documents (**AI Doc Gen**).
+- 🧠 I’m currently absorbing **Design Patterns** like a Neural Network (hopefully with zero hallucinations).
 - ⚡ **Fun Fact:** I reduced API calls by 80% in my last project because I hate waiting for loading screens.
 - 💬 **Ask me about:** **JavaScript, SQL, APIs**, and **RAG** (or ask me why I prefer Backend over centering divs).
 
@@ -27,39 +27,68 @@ I am a Computer Science student passionate about the intersection of **Backend E
 
 ---
 
-### 👨‍💻 Featured Projects
+### 👨‍💻 Interactive Projects (Click to Expand) 👇
 
-#### 🩺 [Medical AI Chatbot](#)
-*An intelligent conversational AI designed to assist with healthcare queries using RAG.*
-- **Tech:** Flask, LangChain, Google Gemini, Pinecone.
-- **Key Feature:** Semantic search with custom prompt templates for accurate medical responses.
+<details>
+<summary><b>🩺 Medical AI Chatbot (RAG System)</b></summary>
+<br>
+An intelligent conversational AI designed to assist with healthcare queries.
+<ul>
+    <li><b>Tech:</b> Flask, LangChain, Google Gemini, Pinecone.</li>
+    <li><b>Key Feature:</b> Semantic search with custom prompt templates for accurate medical responses.</li>
+    <li><a href="#">View Repository</a></li>
+</ul>
+</details>
 
-#### 🏢 [Employee & Task Management System](#)
-*A robust multi-tenant backend system for managing organizational resources.*
-- **Tech:** React, FastAPI, PostgreSQL, TanStack Query.
-- **Focus:** Kanban-style task management and optimized data fetching (80% less API calls).
+<details>
+<summary><b>🏢 Employee & Task Management System</b></summary>
+<br>
+A robust multi-tenant backend system for managing organizational resources.
+<ul>
+    <li><b>Tech:</b> React, FastAPI, PostgreSQL, TanStack Query.</li>
+    <li><b>Focus:</b> Kanban-style task management and optimized data fetching (80% less API calls).</li>
+    <li><a href="#">View Repository</a></li>
+</ul>
+</details>
 
-#### 📄 [AI Document Generator](#)
-*A web app that auto-generates professional Word reports and PPT slides from prompts.*
-- **Tech:** React, FastAPI, Gemini, Three.js.
-- **Focus:** 3D document visualization and smart content formatting.
+<details>
+<summary><b>📄 AI Document Generator</b></summary>
+<br>
+A web app that auto-generates professional Word reports and PPT slides from prompts.
+<ul>
+    <li><b>Tech:</b> React, FastAPI, Gemini, Three.js.</li>
+    <li><b>Focus:</b> 3D document visualization and smart content formatting.</li>
+    <li><a href="#">View Repository</a></li>
+</ul>
+</details>
 
-#### 🔬 [Skin Cancer Detection](#)
-*A deep learning model utilizing Convolutional Neural Networks (CNN) for medical imaging analysis.*
-- **Tech:** Python, TensorFlow/Keras, CNN.
+<details>
+<summary><b>🔬 Skin Cancer Detection (CNN)</b></summary>
+<br>
+A deep learning model utilizing Convolutional Neural Networks (CNN) for medical imaging analysis.
+<ul>
+    <li><b>Tech:</b> Python, TensorFlow/Keras, CNN.</li>
+    <li><a href="#">View Repository</a></li>
+</ul>
+</details>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ydvanuragcreates&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydvanuragcreates&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ydvanuragcreates&show_icons=true&theme=tokyonight&hide_border=true" alt="Anurag's Github Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydvanuragcreates&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 </p>
+<br /><br /><br /><br /><br /><br /><br />
 
 ---
 
 ### 📫 Connect with Me
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anurag-yadav-80821226b/)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/YOUR-TWITTER-HANDLE/)
+[<img align="left" alt="X (Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/AnuragY769)
 
 <br />
