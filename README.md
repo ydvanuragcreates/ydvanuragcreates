@@ -10,7 +10,7 @@
 ### 🚀 About Me
 I am a Computer Science student passionate about the intersection of **Backend Engineering** and **Artificial Intelligence**.
 
-- 🔭 **Current Mission:** Diving deep into **Backend Architecture** while teaching AI to generate documents (**AI Doc Gen**).
+- 🔭 **Current Mission:** Diving deep into **Backend Architecture**.
 - 🧠 I’m currently absorbing **Design Patterns** like a Neural Network (hopefully with zero hallucinations).
 - ⚡ **Fun Fact:** I reduced API calls by 80% in my last project because I hate waiting for loading screens.
 - 💬 **Ask me about:** **JavaScript, SQL, APIs**, and **RAG** (or ask me why I prefer Backend over centering divs).
